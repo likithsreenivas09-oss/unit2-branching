@@ -13,4 +13,3 @@ Line 8
 Line 9
 Line 10
 patch test 1
-patch test 2
